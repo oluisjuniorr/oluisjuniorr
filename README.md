@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+ Programador iniciante em busca de uma oportunidade de crescimento na área de desenvolvimento web. Tenho conhecimentos Básico em Python,Github. Atualmente, estou me aprofundando em Ruby on Rails para expandir minhas habilidades. Apaixonado por tecnologia, interessado em neurociência e comportamento
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+   Linguagens: **Aprendizado em Ruby on Rails, Conhecimento Básico em Pyhton**
 </p>
 
 <p align="left">
