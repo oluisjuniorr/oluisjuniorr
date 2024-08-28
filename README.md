@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-   Linguagens: **Aprendizado em Ruby on Rails, Conhecimento Básico em Pyhton**
+   Linguagens: Aprendizado em Ruby on Rails, Conhecimento Básico em Pyhton
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas:  Aplicativos como VSCode e Pycharm, Rubymine no momento
 </p>
 
 <p align="left">
